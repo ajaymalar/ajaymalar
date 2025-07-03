@@ -5,7 +5,7 @@
 
 - 💼 I build full-stack apps & intelligent systems
 
-- 📫 How to reach me: **ajaymalaro60@gmail.com**
+- 📫 How to reach me: **ajaymalar0601@gmail.com**
 
 ---
 
