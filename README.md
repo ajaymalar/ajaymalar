@@ -36,7 +36,9 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://qgis.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/></a>
+  <a href="https://qgis.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/QGIS_logo_new.svg" alt="qgis" width="40" height="40"/>
+</a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
@@ -50,7 +52,7 @@
 - 🛒 Supermarket DBMS  
   Inventory and customer database system with MySQL + draw.io schema design
 
-- 🏡 [House Price Predictor](https://github.com/ajaymalar/House_price_predictions)  
+- 🏡 [House Price Predictions](https://github.com/ajaymalar/House_price_predictions)  
   ML-powered web app using Gradio & Random Forest to estimate home prices
 
 - ✈️ Airline Management System  
@@ -82,5 +84,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymalar" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=ajaymalar&theme=default" alt="GitHub Streak" />
 </p>
+
